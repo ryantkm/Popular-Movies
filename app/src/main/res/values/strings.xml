@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project Movies</string>
+    <string name="action_database_size">Database Size</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_for_empty_view">No movies</string>
+    <string name="text_for_empty_view">Possible internet connection is missing</string>
+    <string name="title_for_empty_view_favorites">No movies</string>
+    <string name="text_for_empty_view_favorites">You can add here your favorite movies</string>
+</resources>
